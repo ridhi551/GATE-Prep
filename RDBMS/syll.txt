@@ -1,0 +1,5 @@
+Syllabus for RDBMS
+-File Handling System
+-Advantages of RDBMS
+-Three level architecture schema
+-Data Models
